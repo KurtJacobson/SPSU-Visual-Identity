@@ -6,36 +6,36 @@ formats to maintain resolution in an actual application.
 
 ## Standard Logo
 
-| [Regular](Logos/logo) | [Gray Scale](Logos/logo_BW) |
+| [Regular](logo) | [Gray Scale](logo_BW) |
 | ------------- | ------------- |
-| ![Logo Regular](Logos/logo/SPSU_LOGO.png) | ![Logo Gray Scale](Logos/logo_BW/SPSU_LOGO_K.png) |
-| ![Logo Regular Inverted](Logos/logo/SPSU_LOGO_REV.png) | ![Logo Gray Scale Inverted](Logos/logo_BW/SPSU_LOGO_REV_BW.png) |
+| ![Logo Regular](logo/SPSU_LOGO.png) | ![Logo Gray Scale](logo_BW/SPSU_LOGO_K.png) |
+| ![Logo Regular Inverted](logo/SPSU_LOGO_REV.png) | ![Logo Gray Scale Inverted](logo_BW/SPSU_LOGO_REV_BW.png) |
 
 ## Horizontal Logo
 
-| [Regular](Logos/horizontal) | [Gray Scale](Logos/horizontal_BW) |
+| [Regular](horizontal) | [Gray Scale](horizontal_BW) |
 | ------------- | ------------- |
-| ![Horizontile Regular](Logos/horizontal/SPSU_HORIZ.png) | ![Horizontile Gray Scale](Logos/horizontal_BW/SPSU_HORIZ_K.png) |
-| ![Horizontile Regular Inverted](Logos/horizontal/SPSU_HORIZ_REV.png) | ![Horizontile Gray Scale Inverted](Logos/horizontal_BW/SPSU_HORIZ_REV_BW.png) |
+| ![Horizontile Regular](horizontal/SPSU_HORIZ.png) | ![Horizontile Gray Scale](horizontal_BW/SPSU_HORIZ_K.png) |
+| ![Horizontile Regular Inverted](horizontal/SPSU_HORIZ_REV.png) | ![Horizontile Gray Scale Inverted](horizontal_BW/SPSU_HORIZ_REV_BW.png) |
 
 
 ## Wordmark
 
-| [Regular](Logos/wordmark) | [Gray Scale](Logos/wordmark_BW) |
+| [Regular](wordmark) | [Gray Scale](wordmark_BW) |
 | ------------- | ------------- |
-| ![Wordmark Regular](Logos/wordmark/SPSU_WORD.png) | ![Wordmark Gray Scale](Logos/wordmark_BW/SPSU_WORD_K.png) |
-| ![Wordmark Regular Inverted](Logos/wordmark/SPSU_WORD_REV.png) | ![Wordmark Gray Scale Inverted](Logos/wordmark_BW/SPSU_WORD_REV_BW.png) |
+| ![Wordmark Regular](wordmark/SPSU_WORD.png) | ![Wordmark Gray Scale](wordmark_BW/SPSU_WORD_K.png) |
+| ![Wordmark Regular Inverted](wordmark/SPSU_WORD_REV.png) | ![Wordmark Gray Scale Inverted](wordmark_BW/SPSU_WORD_REV_BW.png) |
 
 ## Webmark
 
-| [Regular](Logos/webmark) | [Gray Scale](Logos/webmark_BW) |
+| [Regular](webmark) | [Gray Scale](webmark_BW) |
 | ------------- | ------------- |
-| ![Webmark Regular](Logos/webmark/SPSU_WEB.png) | ![Webmark Gray Scale](Logos/webmark_BW/SPSU_WEB_K.png) |
-| ![Webmark Regular Inverted](Logos/webmark/SPSU_WEB_REV.png) | ![Webmark Gray Scale Inverted](Logos/webmark_BW/SPSU_WEB_REV_BW.png) |
+| ![Webmark Regular](webmark/SPSU_WEB.png) | ![Webmark Gray Scale](webmark_BW/SPSU_WEB_K.png) |
+| ![Webmark Regular Inverted](webmark/SPSU_WEB_REV.png) | ![Webmark Gray Scale Inverted](webmark_BW/SPSU_WEB_REV_BW.png) |
 
 ## Icon
 
-| [Regular](Logos/icon) | [Gray Scale](Logos/icon_BW) |
+| [Regular](icon) | [Gray Scale](icon_BW) |
 | ------------- | ------------- |
-| ![Icon Regular](Logos/icon/SPSU_ICON.png) | ![Icon Gray Scale](Logos/icon_BW/SPSU_ICON_K.png) |
-| ![Icon Regular Inverted](Logos/icon/SPSU_ICON_REV.png) | ![Icon Gray Scale Inverted](Logos/icon_BW/SPSU_ICON_REV_BW.png) |
+| ![Icon Regular](icon/SPSU_ICON.png) | ![Icon Gray Scale](icon_BW/SPSU_ICON_K.png) |
+| ![Icon Regular Inverted](icon/SPSU_ICON_REV.png) | ![Icon Gray Scale Inverted](icon_BW/SPSU_ICON_REV_BW.png) |
