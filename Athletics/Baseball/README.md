@@ -6,9 +6,9 @@ formats to maintain resolution in an actual application.
 
 ## Ligature
 
-| [Regular](SP_Ligature) | [Gray Scale](SP_Ligature) | [Line](SP_Ligature) |
+| [Regular](Ligature) | [Gray Scale](Ligature) | [Line](Ligature) |
 | ------------- | ------------- | ------------- |
-| ![Regular](SP_Ligature/Baseball_SP.png) | ![Gray Scale](SP_Ligature/Baseball_SP_BW.png) | ![Line](SP_Ligature/Baseball_SP_Line.png) |
+| ![Regular](Ligature/ligature.png) | ![Gray Scale](Ligature/ligature_bw.png) | ![Line](Ligature/ligature_line.png) |
 
 
 
