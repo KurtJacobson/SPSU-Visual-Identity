@@ -7,20 +7,20 @@ formats to maintain resolution in an actual application.
 
 ## Hornet
 
-| [Regular](SPSU_Hornet) | [Gray Scale](SPSU_Hornet) | [Line](SPSU_Hornet) |
+| [Regular](/Athletics/General/SPSU_Hornet) | [Gray Scale](/Athletics/General/SPSU_Hornet) | [Line](/Athletics/General/SPSU_Hornet) |
 | ------------- | ------------- | ------------- |
-| ![Regular](SPSU_Hornet/hornet.png) | ![Gray Scale](SPSU_Hornet/hornet_bw.png) | ![Line](SPSU_Hornet/hornet_line.png) |
+| ![Regular](/Athletics/General/SPSU_Hornet/hornet.png) | ![Gray Scale](/Athletics/General/SPSU_Hornet/hornet_bw.png) | ![Line](/Athletics/General/SPSU_Hornet/hornet_line.png) |
 
 
 ## 3D Hornet
 
-| [Regular](SPSU_Hornet) | [Gray Scale](SPSU_Hornet) |
+| [Regular](/Athletics/General/SPSU_Hornet) | [Gray Scale](/Athletics/General/SPSU_Hornet) |
 | ------------- | ------------- |
-| ![Regular](SPSU_Hornet/3d_hornet.jpg) | ![Gray Scale](SPSU_Hornet/3d_hornet_bw.jpg) |
+| ![Regular](/Athletics/General/SPSU_Hornet/3d_hornet.jpg) | ![Gray Scale](/Athletics/General/SPSU_Hornet/3d_hornet_bw.jpg) |
 
 
 ## Shield Hornet
 
-| [Regular](SPSU_Hornet) |
+| [Regular](/Athletics/General/SPSU_Hornet) |
 | ------------- |
-| ![Regular](SPSU_Hornet/hornet_shield.png) |
+| ![Regular](/Athletics/General/SPSU_Hornet/hornet_shield.png) |
