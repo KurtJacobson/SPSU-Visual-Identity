@@ -44,7 +44,7 @@
 
 # SPSU Color Palette
 
-This is the official SPSU color set as defined in the SPSU style guide.
+These were the official SPSU colors as defined in the SPSU style guide.
 
 ## Primary Colors
 
@@ -71,17 +71,17 @@ This is the official SPSU color set as defined in the SPSU style guide.
 
 # SPSU Sans Font
 
-SPSU Sans is derived from the typeface defined in 1931 by the German
+SPSU Sans was derived from a typeface defined in 1931 by the German
 standards body DIN in the standard sheet DIN 1451-Schriften (typefaces).
-The typeface was specifically designed for legibility and intended for use
-on technical drawings and documentation. 
+The font was specifically designed for legibility and intended for use
+on technical drawings and documentation.
 
 According to the SPSU style guide:
 
 >It was selected for its clean, angular lines, uniform proportions and “engineering” like qualities.
 
-Like the original DIN spec, SPSU Sans is available in both regular and condensed
-versions for use when space is limited, for example notes on a drawing. It is also
+Like the original DIN spec, SPSU Sans was available in both regular and condensed
+versions for use when space was limited, for example notes on a drawing. It was also
 available in a wide selection of weights.
 
 ## SPSU Sans Demo

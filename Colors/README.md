@@ -1,6 +1,6 @@
 # SPSU Color Palette
 
-This is the official SPSU color set as defined in the SPSU style guide.
+These were the official SPSU colors as defined in the SPSU style guide.
 
 ## Primary Colors
 
