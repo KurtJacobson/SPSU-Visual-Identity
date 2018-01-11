@@ -1,8 +1,16 @@
 # SPSU Visual Identity
 
+This repository serves as a personal archive of Southern Polytechnic State
+University (SPSU) logos and other memorabilia which have become difficult,
+if not impossible, to find since the SPSU-KSU merger.
 
 
 # SPSU Logos
+
+Each logo style is available in `svg`, `eps` and `png` formats. Click the link in
+the table heading to be taken to the appropriate directory. The `png` images are
+sized for use in this `README`, please use either the `svg` or `eps` formats to
+maintain resolution in an actual application.
 
 ## Standard Logo
 
@@ -89,6 +97,7 @@ available in a wide selection of weights.
 <img src="/Fonts/demo/demo.png" alt="SPSU Sans Demo" width="277">
 
 
+
 # SPSU Website Backgrounds
 
 This is the background used on the website in 2013, and the one I remember most fondly.
@@ -101,11 +110,13 @@ and makes a great desktop background!
 ![2014 Green Background](/Backgrounds/2014_green.jpg)
 
 
+
 # SPSU Athletic Logos
 
-Each logo style is available in `svg`, `eps` and `png` formats. Click the link in the table heading to be taken to the
-appropriate directory. The `png` images are sized for use in this `README`, please use either the `svg` or `eps` 
-formats to maintain resolution in an actual application.
+Each logo style is available in `svg`, `eps` and `png` formats. Click the link in
+the table heading to be taken to the appropriate directory. The `png` images are
+sized for use in this `README`, please use either the `svg` or `eps` formats to
+maintain resolution in an actual application.
 
 
 ## General SPSU Athletics
@@ -131,7 +142,7 @@ formats to maintain resolution in an actual application.
 | ![Regular](/Athletics/General/SPSU_Hornet/hornet_shield.png) |
 
 
-# SPSU Baseball 
+# SPSU Baseball
 
 ## Ligature
 
@@ -158,12 +169,7 @@ formats to maintain resolution in an actual application.
 | ![Alternate](/Athletics/Baseball/Script/script_bw3.png) |
 
 
-# SPSU Basketball 
-
-Each logo style is available in `svg`, `eps` and `png` formats. Click the link in the table heading to be taken to the
-appropriate directory. The `png` images are sized for use in this `README`, please use either the `svg` or `eps` 
-formats to maintain resolution in an actual application.
-
+# SPSU Basketball
 
 ## Hornet
 
@@ -187,8 +193,7 @@ formats to maintain resolution in an actual application.
 
 
 
-# SPSU Soccer 
-
+# SPSU Soccer
 
 ## Hornet
 
