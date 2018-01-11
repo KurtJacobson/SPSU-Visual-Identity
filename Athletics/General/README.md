@@ -1,4 +1,4 @@
-# SPSU Basketball 
+# SPSU General Athletics Hornet 
 
 Each logo style is available in `svg`, `eps` and `png` formats. Click the link in the table heading to be taken to the
 appropriate directory. The `png` images are sized for use in this `README`, please use either the `svg` or `eps` 
