@@ -160,3 +160,28 @@ formats to maintain resolution in an actual application.
 | [Regular](/Athletics/Basketball/Text) | [Gray Scale](/Athletics/Basketball/Text) | [Line](/Athletics/Basketball/Text) |
 | ------------- | ------------- | ------------- |
 | ![Regular](/Athletics/Basketball/Text/text.png) | ![Gray Scale](/Athletics/Basketball/Text/text_bw.png) | ![Line](/Athletics/Basketball/Text/text_line.png) |
+
+
+
+# SPSU Soccer 
+
+
+## Hornet
+
+| [Regular](/Athletics/Soccer/Shield) | [Gray Scale](/Athletics/Soccer/Shield) | [Line](/Athletics/Soccer/Shield) |
+| ------------- | ------------- | ------------- |
+| ![Regular](/Athletics/Soccer/Shield/shield.png) | ![Gray Scale](/Athletics/Soccer/Shield/shield_bw.png) | ![Line](/Athletics/Soccer/Shield/shield_line.png) |
+
+
+## Southern Poly
+
+| [Regular](/Athletics/Soccer/Southern_Poly) | [Regular 1](/Athletics/Soccer/Southern_Poly) | [Gray Scale](/Athletics/Soccer/Southern_Poly) | [Line](/Athletics/Soccer/Southern_Poly) |
+| ------------- | ------------- | ------------- | ------------- |
+| ![Regular](/Athletics/Soccer/Southern_Poly/southern_poly.png) | ![Regular 1](/Athletics/Soccer/Southern_Poly/southern_poly2.png) | ![Gray Scale](/Athletics/Soccer/Southern_Poly/southern_poly_bw.png) | ![Line](/Athletics/Soccer/Southern_Poly/southern_poly_line.png) |
+
+
+## SPSU
+
+| [Regular](/Athletics/Soccer/SPSU) | [Gray Scale](/Athletics/Soccer/SPSU) | [Line](/Athletics/Soccer/SPSU) |
+| ------------- | ------------- | ------------- |
+| ![Regular](/Athletics/Soccer/SPSU/spsu.png) | ![Gray Scale](/Athletics/Soccer/SPSU/spsu_bw.png) | ![Line](/Athletics/Soccer/SPSU/spsu_line.png) |
